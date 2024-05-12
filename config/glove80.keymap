@@ -30,10 +30,6 @@
 #define LAYER_Lower 0
 #endif
 
-/* Custom Device-tree */
-CONFIG_ZMK_BLE_EXPERIMENTAL_CONN=y
-
-
 /* Glove80 system behavior & macros */
 / {
     behaviors {
